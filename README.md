@@ -1,1 +1,3 @@
-# -2TuB3S_G1FT_C0FB
+> Made by Kelompok 10 Sistem Digital Teknik Elektro 2021
+
+## Implementation of GIFT-COFB Lightweight Cryptography
