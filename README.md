@@ -7,7 +7,7 @@ References:
 
 ### Hardware:
 - FPGA EP4CE6E22C8N (Altera Cyclone IV)
-- USB to RS 232
+- USB to RS232 For Serial
 
 ### Software:
 - Quartus II v9.1Sp2 Web Edition
